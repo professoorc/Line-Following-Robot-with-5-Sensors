@@ -6,4 +6,5 @@ This project introduces a Line Following Robot that utilizes Arduino technology 
 
 ▫️ http://www.github.com/professoorc   
 ▫️ https://www.instagram.com/codenic.ir  
-▫️ https://www.youtube.com/@codenic_ir
+▫️ https://www.youtube.com/@codenic.
+▫️ https://www.youtube.com/@professoor
